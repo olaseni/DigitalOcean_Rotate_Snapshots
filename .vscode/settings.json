@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "pydo"
+    ],
+    "terminal.integrated.profiles.linux": {
+        "customEnvShell": {
+            "path": "/bin/bash",
+            "args": [
+                "--rcfile",
+                "${workspaceFolder}/.env"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "customEnvShell"
+}
